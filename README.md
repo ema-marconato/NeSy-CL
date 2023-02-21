@@ -1,8 +1,8 @@
-# Implementation of
+# Implementation of Neuro-Symbolic Continual Learning
 
 # IN PROGRESS!!
 
 # Updates soon!
 
-The model can be found in cool.py which can be integrated in the mammoth continual framework.
+COOL strategy can be found in cool.py 
 
