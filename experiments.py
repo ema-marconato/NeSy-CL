@@ -56,7 +56,7 @@ def launch_shortcut_mnist(args):
     args_list=[]
     for element in itertools.product(*hyperparameters):
         args1= copy.copy(args)
-        args1.model, args1.c_sup, args1.seed = element
+        args1.model, args1.version, args1.c_sup, args1.seed = element
         args1=set_best_args_shortcut(args1)
         args_list.append(args1)
         print(args1)
@@ -66,14 +66,19 @@ def launch_shortcut_mnist(args):
 def launch_cle4evr(args):
     args.dataset="cle4vr"
     args.n_epochs=50
+    # args.lr=0.001
+    # args.seed=0
+
     args.buffer_size=250
     args.batch_size=64
     args.minibatch_size=64
     args.c_weight= 2
     args.version = 'nesy'
+
     args.project="CLE4EVR"
     args.val_search = False
     args.csv_log = True
+
     hyperparameters=[
             ['naive', 'restart', 'er', 'derpp', 'cool'],  #strategy
             [0, 0.01, 0.1], #c_sup

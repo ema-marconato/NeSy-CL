@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Emanuele"
+  given-names: "Marconato"
+- family-names: "Gianpaolo"
+  given-names: "Bontempo"
+- family-names: "Elisa"
+  given-names: "Ficarra"
+- family-names: "Simone"
+  given-names: "Calderara"
+- family-names: "Andrea"
+  given-names: "Passerini"
+- family-names: "Stefano"
+  given-names: "Teso"
+title: "Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal"
+date-released: 2023-05-22
+url: "https://github.com/ema-marconato/NeSy-CL"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Emanuele"
+    given-names: "Marconato"
+  - family-names: "Gianpaolo"
+    given-names: "Bontempo"
+  - family-names: "Elisa"
+    given-names: "Ficarra"
+  - family-names: "Simone"
+    given-names: "Calderara"
+  - family-names: "Andrea"
+    given-names: "Passerini"
+  - family-names: "Stefano"
+    given-names: "Teso"
+  journal: "Proceedings of the 40th International Conference on Machine Learning~(ICML)"
+  title: "Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal"
+  year: 2023
