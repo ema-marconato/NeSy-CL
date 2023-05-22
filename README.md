@@ -1,8 +1,10 @@
+# Official Implementation of Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal
+
 <p align="center">
 <img src="https://github.com/ema-marconato/nesy_continual/assets/28188499/ed9abef1-f6b3-4b59-9d43-12e2cc28b984" width=20% height=20%>
 </p>
 
-**cite** contains a torch implementation for our [paper](https://arxiv.org/pdf/2302.01242.pdf) accepted at ICML 2023.  If you find this code useful in your research, please consider citing:
+**cite** contains a [mammuth](https://github.com/aimagelab/mammoth) implementation for our [paper](https://arxiv.org/pdf/2302.01242.pdf) accepted at ICML 2023.  If you find this code useful in your research, please consider citing:
     
     @InProceedings{marconato2023neuro,
       title={Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal}, 
