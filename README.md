@@ -1,4 +1,4 @@
-# Official Implementation of Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal
+# Official implementation of Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal
 
 <p align="center">
 <img src="https://github.com/ema-marconato/NeSy-CL/assets/28188499/62bf1796-1300-40bd-96a7-e39f86faf022" width=30% height=30%>
