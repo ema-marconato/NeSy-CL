@@ -1,9 +1,9 @@
 # Official Implementation of Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal
 
 <p align="center">
-<img src="https://github.com/ema-marconato/nesy_continual/assets/28188499/ed9abef1-f6b3-4b59-9d43-12e2cc28b984" width=20% height=20%>
+<img src="https://github.com/ema-marconato/NeSy-CL/assets/28188499/62bf1796-1300-40bd-96a7-e39f86faf022" width=30% height=30%>
 </p>
-
+"https://github.com/ema-marconato/NeSy-CL/assets/28188499/62bf1796-1300-40bd-96a7-e39f86faf022"
 it contains a [mammuth](https://github.com/aimagelab/mammoth) implementation for our [paper](https://arxiv.org/pdf/2302.01242.pdf) accepted at ICML 2023.  If you find this code useful in your research, please consider citing:
     
     @InProceedings{marconato2023neuro,
@@ -63,5 +63,6 @@ We included the library `submitit`, to launch jobs on slurm partitions. In that 
 # Reasoning Shortcuts
 
 <p align="center">
-<img src="https://github.com/ema-marconato/nesy_continual/assets/28188499/ce42a1d7-bc81-49d8-aa77-25c4e857bc9e" width=50% height=50%>
+<img src="https://github.com/ema-marconato/NeSy-CL/assets/28188499/f6c5fec1-ff97-4336-8fa3-6a8edc522eda" width=50% height=50%>
 </p>
+
