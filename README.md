@@ -3,8 +3,9 @@
 <p align="center">
 <img src="https://github.com/ema-marconato/NeSy-CL/assets/28188499/62bf1796-1300-40bd-96a7-e39f86faf022" width=30% height=30%>
 </p>
-"https://github.com/ema-marconato/NeSy-CL/assets/28188499/62bf1796-1300-40bd-96a7-e39f86faf022"
-it contains a [mammuth](https://github.com/aimagelab/mammoth) implementation for our [paper](https://arxiv.org/pdf/2302.01242.pdf) accepted at ICML 2023.  If you find this code useful in your research, please consider citing:
+
+
+It contains a [mammuth](https://github.com/aimagelab/mammoth) implementation for our [paper](https://arxiv.org/pdf/2302.01242.pdf) accepted at ICML 2023.  If you find this code useful in your research, please consider citing:
     
     @InProceedings{marconato2023neuro,
       title={Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal}, 
