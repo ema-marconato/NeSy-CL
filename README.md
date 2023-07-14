@@ -8,11 +8,11 @@
 It contains a [mammuth](https://github.com/aimagelab/mammoth) implementation for our [paper](https://arxiv.org/pdf/2302.01242.pdf) accepted at ICML 2023.  If you find this code useful in your research, please consider citing:
     
     @InProceedings{marconato2023neuro,
-      title={Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal}, 
+      title={{Neuro Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal}}, 
       author={Emanuele Marconato and Gianpaolo Bontempo and Elisa Ficarra and Simone Calderara and Andrea Passerini and Stefano Teso},
       year={2023},
-	booktitle = {Proceedings of the 40th International Conference on Machine Learning~(ICML)},
-	series = {Proceedings of Machine Learning Research}
+	booktitle = {Proceedings of the 40th International Conference on Machine Learning~(ICML)}}
+
 
 
 
